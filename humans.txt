@@ -7,7 +7,9 @@
 
 # THANKS
 
-    Prem Panjiyar
+    Prem Panjiyar 2645
+	prem.panjiyar@testingxperts.com
+	Test Engineer
 
 # TECHNOLOGY COLOPHON
 
