@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Prem Panjiyar
 
 # TECHNOLOGY COLOPHON
 
