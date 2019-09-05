@@ -10,4 +10,4 @@ a lot of lectures are already submitted.
 Fork the repo and raise full reuest for review. llll
 
 ## GIT & GITHub Training
-this is the famous
+this is the famous. ading git rebase lectures and git advanced part.
