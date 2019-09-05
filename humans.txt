@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
     Prem Panjiyar 2645
 	prem.panjiyar@testingxperts.com
 	Test Engineer
+
+# THANKS
+
+    Thanks to all.
 
 # TECHNOLOGY COLOPHON
 
