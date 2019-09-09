@@ -11,3 +11,4 @@ Fork the repo and raise full reuest for review. llll
 
 ## GIT & GITHub Training
 this is the famous. ading git rebase lectures and git advanced part. we have done so much of work together.
+Adding new lectures of stash
