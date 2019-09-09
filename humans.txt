@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Adding important notes on git stash.
+
 # TEAM
 
     Prem Panjiyar 2645
